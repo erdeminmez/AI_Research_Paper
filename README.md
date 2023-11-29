@@ -1,1 +1,3 @@
-# AI_Research_Paper
+# ABSTRACT
+
+The aim of the project is to predict age of abalones based on their physical features. This is normally boring task by cutting abalones and measuring some features to learn the age of abalones. Instead of this boring task, this project used PyCaret to create prediction machine learning model for abalones using features as their physical measurements. With the help of PyCaret, a pipeline that perform several steps including preprocessing and applying machine learning models created. As a result, PyCaret compared models available in their libraries and selected CatBoost Regressor as best model based on performance metrics. Again using PyCaret, a prediction model created that predicts age of abalones based on the features of their physical measurements.
